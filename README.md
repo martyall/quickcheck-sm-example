@@ -1,0 +1,2 @@
+# foo
+# quickcheck-sm-example
